@@ -164,7 +164,7 @@ $ npm test
 
 You should see the following:
 
-![test passing message and token](https://curriculum-content.s3.amazonaws.com/phase-0/enterprise/configuring-the-learn-lab-gem/test-passing.png)
+![test passing message](https://curriculum-content.s3.amazonaws.com/phase-0/enterprise/completing-assignments-no-gem/test-passing.png)
 
 Note that, by cloning this assignment down, you've already passed the test!
 
