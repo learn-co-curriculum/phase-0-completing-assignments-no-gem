@@ -114,7 +114,7 @@ then paste in the copied SSH link from GitHub. It should look something like
 this:
 
 ```console
-$ git clone git@github.com:<your-user-name>/phase-0-completing-assignments-learn-lab-gem.git
+$ git clone git@github.com:<your-user-name>/phase-0-completing-assignments-no-gem.git
 ```
 
 Press enter, and you should see a flurry of terminal activity. Once the terminal
